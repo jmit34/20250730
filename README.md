@@ -1,12 +1,24 @@
-# 20250730
+
+# Session d'introduction au calcul quantique avec IBM qiskit
+le 30 juillet 2025
+
+##  0. Préparation, lectures préalables :
+
+#### Pour installer qiskit : 
+https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit
+
+#### Notre plateforme de formation au calcul quantique : 
+https://quantum.cloud.ibm.com/learning/en
+
+#### Notamment, un module de formation sur l’impact du calcul quantique :
+https://quantum.cloud.ibm.com/learning/en/courses/quantum-business-foundations
 
 
-## Session d'introduction au calcul quantique avec IBM qiskit : le 30 juillet 2025
 
-####  1. Présentation IBM Quantum 
+##  1. Présentation IBM Quantum 
   Pierre Jaeger, Quantum Strategic Partnership Executive
 
-####  2. Atelier qiskit
+##  2. Atelier qiskit
   Jean-Michel Torres, qiskit advocate, IBM Quantum ambassador
 
 
