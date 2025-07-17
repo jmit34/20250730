@@ -1,10 +1,10 @@
 # 20250730
 ## Introduction à Qiskit
 
-### Session le 30 juillet 2025 matin, avec Pierre Jeager
+### Session le 30 juillet 2025 matin
 
 ####  1. Présentation IBM Quantum 
-  Pierre Jeager, Quantum Strategic Partnership Executive
+  Pierre Jaeger, Quantum Strategic Partnership Executive
 
 ####  2. Atelier qiskit
   Jean-Michel Torres, qiskit advocate, IBM Quantum ambassador
