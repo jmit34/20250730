@@ -1,7 +1,7 @@
 # 20250730
-## Introduction à Qiskit
 
-### Session le 30 juillet 2025 matin
+
+## Session d'introduction au calcul quantique avec IBM qiskit : le 30 juillet 2025
 
 ####  1. Présentation IBM Quantum 
   Pierre Jaeger, Quantum Strategic Partnership Executive
