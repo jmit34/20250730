@@ -18,7 +18,8 @@ https://quantum.cloud.ibm.com/learning/en
 ##### Notamment, un module de formation sur l’impact du calcul quantique :
 https://quantum.cloud.ibm.com/learning/en/courses/quantum-business-foundations
 
-#### ma liste de recommmendations selon votre curiosité
+#### ma liste de recommmendations selon votre curiosité :
+- http://keeptheketalive.fr/home.php
 - des sites
 - des vidéos
 - des livres, et notamment en téléchargement gratuit :
