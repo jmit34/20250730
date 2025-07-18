@@ -19,10 +19,7 @@ https://quantum.cloud.ibm.com/learning/en
 https://quantum.cloud.ibm.com/learning/en/courses/quantum-business-foundations
 
 #### ma liste de recommendations selon votre curiosité :
-- http://keeptheketalive.fr/home.php
-- des sites
-- des vidéos
-- des livres, et notamment en téléchargement gratuit :
+- http://keeptheketalive.fr/home.php : des sites web, des vidéos, des livres et notamment en téléchargement gratuit :
   -  `Un peu de mathématiques pour l'informatique quantique, Arnaud Bodin`
   -  `Understanding Quantum Technologies, Olivier Ezratty`
     
