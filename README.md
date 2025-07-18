@@ -4,14 +4,27 @@ le 30 juillet 2025
 
 ##  0. Préparation, lectures préalables :
 
-#### Pour installer qiskit : 
+### 0.1 Setup  
+- Installation de la librairie `qiskit`pour Python:
 https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit
 
-#### Notre plateforme de formation au calcul quantique : 
+- Ouvrir un compte sur la plateforme IBM Quantum (il suffit d'une adresse courriel).
+
+### 0.2 Lectures préalables
+
+##### Notre plateforme de formation au calcul quantique : 
 https://quantum.cloud.ibm.com/learning/en
 
-#### Notamment, un module de formation sur l’impact du calcul quantique :
+##### Notamment, un module de formation sur l’impact du calcul quantique :
 https://quantum.cloud.ibm.com/learning/en/courses/quantum-business-foundations
+
+#### ma liste de recommmendations selon votre curiosité
+- des sites
+- des vidéos
+- des livres, et notamment en téléchargement gratuit :
+  -  `Un peu de mathématiques pour l'informatique quantique, Arnaud Bodin`
+  -  `Understanding Quantum Technologies, Olivier Ezratty`
+    
 
 
 
@@ -28,3 +41,6 @@ https://quantum.cloud.ibm.com/learning/en/courses/quantum-business-foundations
 | 2 | 20 minutes| atelier| découverte du code python/qiskit | cas pratique de codage sur un cas simpliste : superposez les intiales de votre nom |
 | 3 | 30 minutes| atelier | qu'est-ce qu'un algorithme quantique ? | Bernstein-Vazirani un algo historique : détecter les fausses pièces en une seule pesée quantique |
 | 4 | 10 minutes| explications | un exemple de ce que l'on cherche vraiment à faire avec un ordinateur quantique | VQE / Maxcut |
+
+## 3. Dans ce repo github, quelques documents d'accompagnement pour l'atelier.
+
